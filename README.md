@@ -10,3 +10,5 @@ Sentiment(polarity=0.39166666666666666, subjectivity=0.4357142857142857)
 0.39166666666666666
 
 source http://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
+
+Thanks to https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
